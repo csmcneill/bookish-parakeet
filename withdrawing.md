@@ -6,4 +6,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 [Learn more about dispute withdrawals](https://woocommerce.com/document/woopayments/fraud-and-disputes/managing-disputes/#withdrawals)
 
-Note: This page is served from [this GitHub file](https://raw.githubusercontent.com/csmcneill/bookish-parakeet/main/withdrawing.md).
+Note: This page is served from [the raw version](https://raw.githubusercontent.com/csmcneill/bookish-parakeet/main/withdrawing.md) of [this GitHub-hosted MD file](https://github.com/csmcneill/bookish-parakeet/raw/refs/heads/main/withdrawing.md).
