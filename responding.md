@@ -1,5 +1,3 @@
-## Responding to disputes
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 Here are a few tips:
@@ -9,3 +7,5 @@ Here are a few tips:
 3. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 [Learn more about managing disputes](https://woocommerce.com/document/woopayments/fraud-and-disputes/managing-disputes/#responding)
+
+Note: This page is served from [the raw version](https://raw.githubusercontent.com/csmcneill/bookish-parakeet/main/responding.md) of [this GitHub-hosted MD file](https://github.com/csmcneill/bookish-parakeet/raw/refs/heads/main/responding.md)
